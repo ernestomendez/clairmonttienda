@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.dxesoft.clairmonttienda",
+      "nativeLanguage": "es"
+    },
+    "jhipsterVersion": "6.9.1",
+    "applicationType": "monolith",
+    "baseName": "clairmontTienda",
+    "packageName": "com.dxesoft.clairmonttienda",
+    "packageFolder": "com/dxesoft/clairmonttienda",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NWZhNWE1OTRiYmE2ZmVlYjc1ZTMxZWE2YTU0MjViNzExOWU2NmM3OGNiNTg0NjlkNDcwZDJlMWQxNmZmNjRjZWFkM2JmY2Y1OGFjMzZmMzNmZjBhMTdjNTVmNmUyMmMzZDA1OGQ3ODYwNDk5NTIwZDg1MzZmZDQyMWFhODQ5NGU=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1592452193294,
+    "testFrameworks": ["gatling", "cucumber", "protractor"],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "es",
+    "languages": ["es"],
+    "blueprints": []
+  }
+}
